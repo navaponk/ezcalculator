@@ -1,4 +1,4 @@
-#Navapon Kraitat (Earth) Coursework Reuploaded
+#Navapon Kraitat (Earth) Coursework Reupload
 while True:
     print("Type 'cal' to perform a calculation or 'exit' to quit:")
     user_input = input()
