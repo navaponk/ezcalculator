@@ -1,3 +1,4 @@
+#navapon kraitat coursework
 while True:
     print("Type 'cal' to perform a calculation or 'exit' to quit:")
     user_input = input()
